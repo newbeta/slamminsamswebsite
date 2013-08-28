@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Guestbook Entries</title
+<link href="default.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="colTwo">
+<div class="post">
+<h1>Thank You</h1>
+<p class="white">We appreciate your input
+<br />
+Guestbook Entries:
+<br />
+<!--#include file="gbook.txt" -->
+<br />
+</p> 
+</div>
+</div>   
+</body>
+</html>
